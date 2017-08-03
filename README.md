@@ -8,4 +8,4 @@ https://pan.baidu.com/s/1nv6zfvz
  HW-Z7-ZC706 RVE 2.0 Linaro ubuntu Desktop image
 
 # image source
-
+https://pan.baidu.com/s/1c28d0Zm
